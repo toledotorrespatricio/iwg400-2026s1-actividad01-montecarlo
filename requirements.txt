@@ -1,5 +1,3 @@
 ipykernel
 matplotlib
 numpy
-pandas
-pytrends
